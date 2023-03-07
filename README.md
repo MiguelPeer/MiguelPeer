@@ -1,16 +1,23 @@
-### Hi there 👋
+# Miguel Pereira
 
-<!--
-**MiguelPeer/MiguelPeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-miguelpereira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-pereira-8309a81b1/)](https://www.linkedin.com/in/miguel-pereira-8309a81b1/) 
+[![Yahoo Badge](https://img.shields.io/badge/-miguelpereira12360@yahoo.com-00875f?style=flat-square&logo=Yahoo&logoColor=white&)](mailto:miguelpereira12360@yahoo.com)
 
-Here are some ideas to get you started:
+Desenvolvedor Front-End e Apaixonado por tecnologia !! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir, ajudar a comunidade e dar meu melhor nos projetos em que eu estiver atuando.
+
+
+  
+  {
+    "tecnologies": [
+      "ReactJS",
+      "React Native",
+      "Typescript",
+      "NodeJS",
+    ]
+  }
+  
+
+
+"O mundo não gira no seu script." <br>
