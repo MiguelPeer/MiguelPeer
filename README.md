@@ -7,19 +7,19 @@
 
 ## 👨‍💻 About me
 
-•Estudante da area de Sistema da Informação.
-•Atualmente estudando FrontEnd, porem com o coração derretido para o BackEnd.
-•Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber que nunca posso me limitar na area.
+•Estudante da area de Sistema da Informação. <br>
+•Atualmente estudando FrontEnd, porem com o coração derretido para o BackEnd. <br>
+•Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber que nunca posso me limitar na area. <br>
 
 
 
-
+```
 {
 "Metas de Aprendizagem": [
       "Backend",
       "DataBase",
 ]
- }
+ } <br>
  
   {
     "Estudando": [
@@ -28,6 +28,6 @@
       "Css",
     ]
   }
-  
+```  
 
 "" <br>
