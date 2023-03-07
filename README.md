@@ -1,23 +1,32 @@
 # Miguel Pereira
 
-[![Linkedin Badge](https://img.shields.io/badge/-miguelpereira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-pereira-8309a81b1/)](https://www.linkedin.com/in/miguel-pereira-8309a81b1/) 
-[![Yahoo Badge](https://img.shields.io/badge/-miguelpereira12360@yahoo.com-00875f?style=flat-square&logo=Yahoo&logoColor=white&)](mailto:miguelpereira12360@yahoo.com)
+## 📝 Blogs
 
-Desenvolvedor Front-End e Apaixonado por tecnologia !! 
+<a href="https://www.linkedin.com/in/miguel-pereira-8309a81b1/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
-Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir, ajudar a comunidade e dar meu melhor nos projetos em que eu estiver atuando.
+Estudante da area de Sistema da Informação.
 
 
-  
+Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber que nunca posso me limitar na area.
+
+
+
+{
+"Metas de Aprendizagem": [
+      "Backend",
+      "DataBase",
+]
+ }
+ 
   {
-    "tecnologies": [
-      "ReactJS",
-      "React Native",
-      "Typescript",
-      "NodeJS",
+    "Estudando": [
+      "JavaScript",
+      "Html",
+      "Css",
     ]
   }
   
 
 
-"O mundo não gira no seu script." <br>
+"" <br>
