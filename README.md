@@ -2,13 +2,15 @@
 
 ## 📝 Blogs
 
-<a href="https://www.linkedin.com/in/miguel-pereira-8309a81b1/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+-Linkedin : https://www.linkedin.com/in/miguel-pereira-8309a81b1/
+-Email : miguelpereira12360@yahoo.com
 
-Estudante da area de Sistema da Informação.
+## 👨‍💻 About me
 
+•Estudante da area de Sistema da Informação.
+•Atualmente estudando FrontEnd, porem com o coração derretido para o BackEnd.
+•Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber que nunca posso me limitar na area.
 
-Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber que nunca posso me limitar na area.
 
 
 
@@ -27,6 +29,5 @@ Querendo aprende todo dia uma nova forma de me renovar com a tecnologia e saber 
     ]
   }
   
-
 
 "" <br>
