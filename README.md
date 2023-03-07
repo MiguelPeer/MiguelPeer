@@ -1,5 +1,7 @@
 # Miguel Pereira
 
+"Hello World"
+
 ## 📝 Blogs
 
 -Linkedin : https://www.linkedin.com/in/miguel-pereira-8309a81b1/
@@ -19,7 +21,7 @@
       "Backend",
       "DataBase",
 ]
- } <br>
+ } 
  
   {
     "Estudando": [
@@ -30,4 +32,4 @@
   }
 ```  
 
-"" <br>
+ "A persistência supera o talento"<br>
