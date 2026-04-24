@@ -105,7 +105,7 @@ Atualmente na **Jadlog Logística** como Analista de Data Analytics, mas estou *
 <table>
 <tr>
 <td>🏆 <strong>Data Analytics</strong><br/>TERA | 2024</td>
-<td>📚 <strong>Pós-Graduação</strong><br/>FIAP + Aura | 2024-Presente</td>
+<td>📚 <strong>Graduçao ADS</strong><br/>Campos Salles | 2025</td>
 <td>📜 <strong>Assistente Fiscal</strong><br/>Senac Brasil | 2022</td>
 </tr>
 </table>
